@@ -381,11 +381,15 @@ header .navbar ul a:hover{
     }
 }
 
+
+
 @media (max-width:768px){
     html{
         font-size: 50%;
     }
 }
+
+
 
 @media (max-width:400px){
     header{
@@ -404,3 +408,4 @@ header .navbar ul a:hover{
         margin: 3rem 0;
     }
 }
+
