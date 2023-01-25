@@ -222,7 +222,7 @@ header .navbar ul a:hover{
     color: var(--yellow);
 }
 
-.about .row .counter .box h3{
+.about .row .counter .box h2{
     font-size: 2rem;
     color: #fff;
 }
@@ -324,7 +324,7 @@ header .navbar ul a:hover{
     padding-bottom: 2rem;
 }
 
-.contact .row .content .info h3{
+.contact .row .content .info h2{
     display: flex;
     align-items: center;
     font-size: 2rem;
@@ -333,7 +333,7 @@ header .navbar ul a:hover{
     font-weight: normal;
 }
 
-.contact .row .content .info h3 i{
+.contact .row .content .info h2 i{
     padding-right: 1rem;
     color: var(--yellow);
 }
